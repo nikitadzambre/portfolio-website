@@ -1,0 +1,30 @@
+.work_item {
+	width: 100%;
+}
+.header_title {
+	display: block;
+	position: relative;
+}
+.header_name {
+	font-size: 30px;
+}
+.header_position {
+	float: none;
+	font-size: 12px;
+}
+.header_inner {
+	text-align: center;
+}
+.summary {
+	font-size: 15px;
+	display: block;
+}
+.current_work {
+	margin: 10px;
+	padding: 0;
+}
+.previous_work {
+	margin: 10px;
+	padding: 0;
+	float: right;
+}
