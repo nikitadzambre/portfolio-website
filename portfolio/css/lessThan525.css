@@ -1,29 +1,40 @@
-.work_item {
+.work-item {
 	width: 100%;
 }
-.header_title {
+
+.work-item-img {
+	height: auto;
+}
+
+.header-title {
 	display: block;
 	position: relative;
 }
-.header_name {
+
+.header-name {
 	font-size: 30px;
 }
-.header_position {
+
+.header-position {
 	float: none;
 	font-size: 12px;
 }
-.header_inner {
+
+.header-inner {
 	text-align: center;
 }
+
 .summary {
 	font-size: 15px;
 	display: block;
 }
-.current_work {
+
+.current-work {
 	margin: 10px;
 	padding: 0;
 }
-.previous_work {
+
+.previous-work {
 	margin: 10px;
 	padding: 0;
 	float: right;
