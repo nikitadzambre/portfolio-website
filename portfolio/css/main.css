@@ -118,10 +118,9 @@ i {
 	margin-bottom: 20px;
 }
 
-.work-item-img {
-	width: 90%;
-	height: 150px;
+.work-item-div {
     border: thin dotted #7d97ad;
+	margin: 10px;
 }
 
 .work-item-title {

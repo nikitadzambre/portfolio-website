@@ -1,0 +1,41 @@
+.work-item {
+	width: 100%;
+}
+
+.work-item-div {
+    width: 90%;
+}
+
+.header-title {
+	display: block;
+	position: relative;
+}
+
+.header-name {
+	font-size: 30px;
+}
+
+.header-position {
+	float: none;
+	font-size: 12px;
+}
+
+.header-inner {
+	text-align: center;
+}
+
+.summary {
+	font-size: 15px;
+	display: block;
+}
+
+.current-work {
+	margin: 10px;
+	padding: 0;
+}
+
+.previous-work {
+	margin: 10px;
+	padding: 0;
+	float: right;
+}
